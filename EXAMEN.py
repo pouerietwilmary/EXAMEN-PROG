@@ -1,5 +1,4 @@
 
-
 def INICIO ():
   input('Enter para volver a inicio.')
   CAJERO()
