@@ -61,6 +61,6 @@ def CAJERO ():
   else:
       INICIO()
 
-  
+ 
 
 CAJERO()
